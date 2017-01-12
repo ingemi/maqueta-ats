@@ -1,0 +1,11 @@
+.navbar{
+	margin-bottom: 0px;
+}
+.search-panel{
+	background-color: #eeeeee;
+	border-right: #bbbbbb solid 2px;
+}
+
+.thumbnails-panel{
+	border-left: #bbbbbb solid 2px;
+}
